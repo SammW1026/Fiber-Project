@@ -1,0 +1,4 @@
+{ "name": "Duplicate Port", "pedestals": [ { "name": "P1", "splitters": [
+  { "name": "S1", "ratio": 16, "input": "OLT", "cables": [
+    { "port": 2, "label": "C1", "endpoint": "House A" },
+    { "port": 2, "label": "C2", "endpoint": "House B" } ] } ] } ] }

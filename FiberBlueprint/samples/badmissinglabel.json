@@ -1,0 +1,2 @@
+{ "name": "Missing Label", "pedestals": [ { "name": "P1", "splitters": [
+  { "name": "S1", "ratio": 4, "input": "OLT", "cables": [ { "port": 1, "label": "", "endpoint": "House A" } ] } ] } ] }
