@@ -1,0 +1,4 @@
+{ "name": "Feed Loop", "pedestals": [ { "name": "P1", "splitters": [
+  { "name": "S1", "ratio": 4, "input": "OLT", "cables": [ { "port": 1, "label": "C1", "endpoint": "House A" } ] },
+  { "name": "S2", "ratio": 4, "cables": [ { "port": 1, "label": "C2", "feeds": "S3" } ] },
+  { "name": "S3", "ratio": 4, "cables": [ { "port": 1, "label": "C3", "feeds": "S2" } ] } ] } ] }

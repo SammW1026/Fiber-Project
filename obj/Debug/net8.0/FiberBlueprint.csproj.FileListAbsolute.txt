@@ -1,0 +1,15 @@
+C:\Users\DSU Student\CSC 461\FiberBlueprint\bin\Debug\net8.0\FiberBlueprint.exe
+C:\Users\DSU Student\CSC 461\FiberBlueprint\bin\Debug\net8.0\FiberBlueprint.deps.json
+C:\Users\DSU Student\CSC 461\FiberBlueprint\bin\Debug\net8.0\FiberBlueprint.runtimeconfig.json
+C:\Users\DSU Student\CSC 461\FiberBlueprint\bin\Debug\net8.0\FiberBlueprint.dll
+C:\Users\DSU Student\CSC 461\FiberBlueprint\bin\Debug\net8.0\FiberBlueprint.pdb
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.AssemblyInfoInputs.cache
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.AssemblyInfo.cs
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.csproj.CoreCompileInputs.cache
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.dll
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\refint\FiberBlueprint.dll
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.pdb
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlueprint.genruntimeconfig.cache
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\ref\FiberBlueprint.dll
+C:\Users\DSU Student\CSC 461\FiberBlueprint\obj\Debug\net8.0\FiberBlu.DF1FB3F9.Up2Date

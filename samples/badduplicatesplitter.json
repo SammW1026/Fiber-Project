@@ -1,0 +1,3 @@
+{ "name": "Duplicate Splitter", "pedestals": [
+  { "name": "P1", "splitters": [ { "name": "S1", "ratio": 4, "input": "OLT", "cables": [] } ] },
+  { "name": "P2", "splitters": [ { "name": "s1", "ratio": 8, "input": "OLT 2", "cables": [] } ] } ] }

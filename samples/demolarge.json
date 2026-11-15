@@ -1,0 +1,454 @@
+{
+  "name": "Ridgeview Colony Fiber Build",
+  "revision": "C",
+  "drawnBy": "CSC 461 project",
+  "pedestals": [
+    {
+      "name": "Main Pedestal",
+      "splitters": [
+        {
+          "name": "OLT Primary",
+          "ratio": 4,
+          "input": "OLT slot 1 PON 1",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#1-01",
+              "endpoint": "PON1_1 splitter",
+              "feeds": "PON1_1"
+            },
+            {
+              "port": 2,
+              "label": "CBL#1-02",
+              "endpoint": "PON1_2 splitter",
+              "feeds": "PON1_2"
+            },
+            {
+              "port": 3,
+              "label": "CBL#1-03",
+              "endpoint": "PON1_3 splitter",
+              "feeds": "PON1_3"
+            },
+            {
+              "port": 4,
+              "label": "CBL#1-04",
+              "endpoint": "PON1_4 splitter",
+              "feeds": "PON1_4"
+            }
+          ]
+        },
+        {
+          "name": "PON1_1",
+          "ratio": 32,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#2-01",
+              "endpoint": "Shop"
+            },
+            {
+              "port": 2,
+              "label": "CBL#2-02",
+              "endpoint": "Office"
+            },
+            {
+              "port": 3,
+              "label": "CBL#2-03",
+              "endpoint": "Lot 103"
+            },
+            {
+              "port": 4,
+              "label": "CBL#2-04",
+              "endpoint": "Lot 104"
+            },
+            {
+              "port": 5,
+              "label": "CBL#2-05",
+              "endpoint": "Lot 105"
+            },
+            {
+              "port": 6,
+              "label": "CBL#2-06",
+              "endpoint": "Lot 106"
+            },
+            {
+              "port": 7,
+              "label": "CBL#2-07",
+              "endpoint": "Lot 107"
+            },
+            {
+              "port": 8,
+              "label": "CBL#2-08",
+              "endpoint": "Lot 108"
+            },
+            {
+              "port": 9,
+              "label": "CBL#2-09",
+              "endpoint": "Lot 109"
+            },
+            {
+              "port": 10,
+              "label": "CBL#2-10",
+              "endpoint": "Lot 110"
+            },
+            {
+              "port": 11,
+              "label": "CBL#2-11",
+              "endpoint": "Lot 111"
+            },
+            {
+              "port": 12,
+              "label": "CBL#2-12",
+              "endpoint": "Lot 112"
+            },
+            {
+              "port": 13,
+              "label": "CBL#2-13",
+              "endpoint": "Lot 113"
+            },
+            {
+              "port": 14,
+              "label": "CBL#2-14",
+              "endpoint": "Lot 114"
+            },
+            {
+              "port": 15,
+              "label": "CBL#2-15",
+              "endpoint": "Lot 115"
+            },
+            {
+              "port": 16,
+              "label": "CBL#2-16",
+              "endpoint": "Lot 116"
+            },
+            {
+              "port": 17,
+              "label": "CBL#2-17",
+              "endpoint": "Lot 117"
+            },
+            {
+              "port": 18,
+              "label": "CBL#2-18",
+              "endpoint": "Lot 118"
+            },
+            {
+              "port": 19,
+              "label": "CBL#2-19",
+              "endpoint": "Lot 119"
+            },
+            {
+              "port": 20,
+              "label": "CBL#2-20",
+              "endpoint": "Lot 120"
+            },
+            {
+              "port": 21,
+              "label": "CBL#2-21",
+              "endpoint": "Lot 121"
+            },
+            {
+              "port": 22,
+              "label": "CBL#2-22",
+              "endpoint": "Lot 122"
+            },
+            {
+              "port": 23,
+              "label": "CBL#2-23",
+              "endpoint": "Lot 123"
+            },
+            {
+              "port": 24,
+              "label": "CBL#2-24",
+              "endpoint": "Church"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North Pedestal",
+      "splitters": [
+        {
+          "name": "PON1_2",
+          "ratio": 16,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#3-01",
+              "endpoint": "Lot 201"
+            },
+            {
+              "port": 2,
+              "label": "CBL#3-02",
+              "endpoint": "Lot 202"
+            },
+            {
+              "port": 3,
+              "label": "CBL#3-03",
+              "endpoint": "Lot 203"
+            },
+            {
+              "port": 4,
+              "label": "CBL#3-04",
+              "endpoint": "Lot 204"
+            },
+            {
+              "port": 5,
+              "label": "CBL#3-05",
+              "endpoint": "Lot 205"
+            },
+            {
+              "port": 6,
+              "label": "CBL#3-06",
+              "endpoint": "Lot 206"
+            },
+            {
+              "port": 7,
+              "label": "CBL#3-07",
+              "endpoint": "Lot 207"
+            },
+            {
+              "port": 8,
+              "label": "CBL#3-08",
+              "endpoint": "Lot 208"
+            },
+            {
+              "port": 9,
+              "label": "CBL#3-09",
+              "endpoint": "Lot 209"
+            },
+            {
+              "port": 10,
+              "label": "CBL#3-10",
+              "endpoint": "Lot 210"
+            },
+            {
+              "port": 11,
+              "label": "CBL#3-11",
+              "endpoint": "Lot 211"
+            },
+            {
+              "port": 12,
+              "label": "CBL#3-12",
+              "endpoint": "School"
+            },
+            {
+              "port": 13,
+              "label": "CBL#3-13",
+              "endpoint": "PON1_2A splitter",
+              "feeds": "PON1_2A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North Annex Pedestal",
+      "splitters": [
+        {
+          "name": "PON1_2A",
+          "ratio": 8,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#4-01",
+              "endpoint": "Lot 251"
+            },
+            {
+              "port": 2,
+              "label": "CBL#4-02",
+              "endpoint": "Lot 252"
+            },
+            {
+              "port": 3,
+              "label": "CBL#4-03",
+              "endpoint": "Lot 253"
+            },
+            {
+              "port": 4,
+              "label": "CBL#4-04",
+              "endpoint": "Lot 254"
+            },
+            {
+              "port": 5,
+              "label": "CBL#4-05",
+              "endpoint": "Lot 255"
+            },
+            {
+              "port": 6,
+              "label": "CBL#4-06",
+              "endpoint": "Lot 256"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "East Pedestal",
+      "splitters": [
+        {
+          "name": "PON1_3",
+          "ratio": 32,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#5-01",
+              "endpoint": "Lot 301"
+            },
+            {
+              "port": 2,
+              "label": "CBL#5-02",
+              "endpoint": "Lot 302"
+            },
+            {
+              "port": 3,
+              "label": "CBL#5-03",
+              "endpoint": "Lot 303"
+            },
+            {
+              "port": 4,
+              "label": "CBL#5-04",
+              "endpoint": "Lot 304"
+            },
+            {
+              "port": 5,
+              "label": "CBL#5-05",
+              "endpoint": "Lot 305"
+            },
+            {
+              "port": 6,
+              "label": "CBL#5-06",
+              "endpoint": "Lot 306"
+            },
+            {
+              "port": 7,
+              "label": "CBL#5-07",
+              "endpoint": "Lot 307"
+            },
+            {
+              "port": 8,
+              "label": "CBL#5-08",
+              "endpoint": "Lot 308"
+            },
+            {
+              "port": 9,
+              "label": "CBL#5-09",
+              "endpoint": "Lot 309"
+            },
+            {
+              "port": 10,
+              "label": "CBL#5-10",
+              "endpoint": "Lot 310"
+            },
+            {
+              "port": 11,
+              "label": "CBL#5-11",
+              "endpoint": "Lot 311"
+            },
+            {
+              "port": 12,
+              "label": "CBL#5-12",
+              "endpoint": "Lot 312"
+            },
+            {
+              "port": 13,
+              "label": "CBL#5-13",
+              "endpoint": "Lot 313"
+            },
+            {
+              "port": 14,
+              "label": "CBL#5-14",
+              "endpoint": "Lot 314"
+            },
+            {
+              "port": 15,
+              "label": "CBL#5-15",
+              "endpoint": "Lot 315"
+            },
+            {
+              "port": 16,
+              "label": "CBL#5-16",
+              "endpoint": "Lot 316"
+            },
+            {
+              "port": 17,
+              "label": "CBL#5-17",
+              "endpoint": "Lot 317"
+            },
+            {
+              "port": 18,
+              "label": "CBL#5-18",
+              "endpoint": "Lot 318"
+            },
+            {
+              "port": 19,
+              "label": "CBL#5-19",
+              "endpoint": "Lot 319"
+            },
+            {
+              "port": 20,
+              "label": "CBL#5-20",
+              "endpoint": "Dairy Barn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Pedestal",
+      "splitters": [
+        {
+          "name": "PON1_4",
+          "ratio": 8,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#6-01",
+              "endpoint": "Lot 401"
+            },
+            {
+              "port": 2,
+              "label": "CBL#6-02",
+              "endpoint": "Lot 402"
+            },
+            {
+              "port": 3,
+              "label": "CBL#6-03",
+              "endpoint": "Lot 403"
+            },
+            {
+              "port": 4,
+              "label": "CBL#6-04",
+              "endpoint": "Lot 404"
+            },
+            {
+              "port": 5,
+              "label": "CBL#6-05",
+              "endpoint": "Lot 405"
+            },
+            {
+              "port": 6,
+              "label": "CBL#6-06",
+              "endpoint": "Lot 406"
+            },
+            {
+              "port": 7,
+              "label": "CBL#6-07",
+              "endpoint": "Hog Barn"
+            },
+            {
+              "port": 8,
+              "label": "CBL#6-08",
+              "endpoint": "Grain Bins"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

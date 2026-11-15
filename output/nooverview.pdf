@@ -1,0 +1,1185 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4010 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (PEDESTAL) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (Main Pedestal) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (SPLITTER) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (PON1 Primary  1:4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (FED FROM) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (OLT port 1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (PORTS USED) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (3 of 4 \(1 spare\)) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (B) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 385 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 373 Td (CSC 461 project) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 366 m 762 366 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 354 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 342 Td (1 of 4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 335 m 762 335 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (Main Pedestal - PON1 Primary \(1:4 splitter\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 128 Td (FIBER COLOR CODE) Tj ET
+0 0.2 0.9 rg
+626 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 111 Td (1 blue) Tj ET
+1 0.5 0 rg
+626 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 97 Td (2 orange) Tj ET
+0 0.65 0.2 rg
+626 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 83 Td (3 green) Tj ET
+0.5 0.3 0.1 rg
+626 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 69 Td (4 brown) Tj ET
+0.45 0.5 0.55 rg
+626 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 55 Td (5 slate) Tj ET
+0.7 0.7 0.7 rg
+626 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 41 Td (6 white) Tj ET
+0.9 0.1 0.1 rg
+696 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 111 Td (7 red) Tj ET
+0 0 0 rg
+696 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 97 Td (8 black) Tj ET
+0.85 0.75 0 rg
+696 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 83 Td (9 yellow) Tj ET
+0.55 0.2 0.75 rg
+696 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 69 Td (10 violet) Tj ET
+1 0.45 0.65 rg
+696 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 55 Td (11 rose) Tj ET
+0 0.75 0.75 rg
+696 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 41 Td (12 aqua) Tj ET
+0 0 0 RG
+1.2 w
+210 392 16 136 re S
+0 0 0 rg
+BT /F2 9 Tf 204 536 Td (1:4) Tj ET
+1.8 w
+40 460 m 210 460 l S
+[] 0 d
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 466 Td (INPUT) Tj ET
+0 0 0 rg
+BT /F1 9 Tf 40 444 Td (OLT port 1) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 514 Td (1 blue) Tj ET
+0 0.2 0.9 RG
+2.4 w
+226 511 m 420 511 l S
+0 0 0 rg
+BT /F1 8 Tf 300 514 Td (CBL#1-01) Tj ET
+BT /F1 8 Tf 426 508 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 508 Td (-> PON1_1 \(sheet 2\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 480 Td (2 orange) Tj ET
+1 0.5 0 RG
+2.4 w
+226 477 m 420 477 l S
+0 0 0 rg
+BT /F1 8 Tf 300 480 Td (CBL#1-02) Tj ET
+BT /F1 8 Tf 426 474 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 474 Td (-> PON1_2 \(sheet 3\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 446 Td (3 green) Tj ET
+0 0.65 0.2 RG
+1.6 w
+226 443 m 420 443 l S
+0 0 0 rg
+BT /F1 8 Tf 300 446 Td (CBL#1-03) Tj ET
+BT /F1 8 Tf 426 440 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 440 Td (Future PON1_3 \(not built\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 412 Td (4 brown) Tj ET
+0.5 0.3 0.1 RG
+0.8 w
+226 409 m 330 409 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 406.5 Td (spare) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 6728 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (PEDESTAL) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (Main Pedestal) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (SPLITTER) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (PON1_1  1:16) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (FED FROM) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (PON1 Primary port 1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (PORTS USED) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (10 of 16 \(6 spare\)) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (B) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 385 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 373 Td (CSC 461 project) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 366 m 762 366 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 354 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 342 Td (2 of 4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 335 m 762 335 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (Main Pedestal - PON1_1 \(1:16 splitter\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 128 Td (FIBER COLOR CODE) Tj ET
+0 0.2 0.9 rg
+626 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 111 Td (1 blue) Tj ET
+1 0.5 0 rg
+626 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 97 Td (2 orange) Tj ET
+0 0.65 0.2 rg
+626 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 83 Td (3 green) Tj ET
+0.5 0.3 0.1 rg
+626 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 69 Td (4 brown) Tj ET
+0.45 0.5 0.55 rg
+626 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 55 Td (5 slate) Tj ET
+0.7 0.7 0.7 rg
+626 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 41 Td (6 white) Tj ET
+0.9 0.1 0.1 rg
+696 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 111 Td (7 red) Tj ET
+0 0 0 rg
+696 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 97 Td (8 black) Tj ET
+0.85 0.75 0 rg
+696 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 83 Td (9 yellow) Tj ET
+0.55 0.2 0.75 rg
+696 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 69 Td (10 violet) Tj ET
+1 0.45 0.65 rg
+696 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 55 Td (11 rose) Tj ET
+0 0.75 0.75 rg
+696 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 41 Td (12 aqua) Tj ET
+0 0 0 RG
+1.2 w
+210 44 16 484 re S
+0 0 0 rg
+BT /F2 9 Tf 204 536 Td (1:16) Tj ET
+1.8 w
+0 0.2 0.9 RG
+40 286 m 210 286 l S
+[] 0 d
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 292 Td (INPUT) Tj ET
+0 0 0 rg
+BT /F2 8.5 Tf 40 272 Td (PON1 Primary port 1) Tj ET
+BT /F1 8 Tf 40 261 Td (cable CBL#1-01 \(blue\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 250 Td (see sheet 1) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 515.88 Td (1 blue) Tj ET
+0 0.2 0.9 RG
+1.6 w
+226 512.88 m 420 512.88 l S
+0 0 0 rg
+BT /F1 8 Tf 300 515.88 Td (CBL#2-01) Tj ET
+BT /F1 8 Tf 426 509.88 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 509.88 Td (House A) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 485.63 Td (2 orange) Tj ET
+1 0.5 0 RG
+1.6 w
+226 482.63 m 420 482.63 l S
+0 0 0 rg
+BT /F1 8 Tf 300 485.63 Td (CBL#2-02) Tj ET
+BT /F1 8 Tf 426 479.63 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 479.63 Td (House B) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 455.38 Td (3 green) Tj ET
+0 0.65 0.2 RG
+1.6 w
+226 452.38 m 420 452.38 l S
+0 0 0 rg
+BT /F1 8 Tf 300 455.38 Td (CBL#2-03) Tj ET
+BT /F1 8 Tf 426 449.38 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 449.38 Td (House C) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 425.13 Td (4 brown) Tj ET
+0.5 0.3 0.1 RG
+1.6 w
+226 422.13 m 420 422.13 l S
+0 0 0 rg
+BT /F1 8 Tf 300 425.13 Td (CBL#2-04) Tj ET
+BT /F1 8 Tf 426 419.13 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 419.13 Td (House D) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 394.88 Td (5 slate) Tj ET
+0.45 0.5 0.55 RG
+1.6 w
+226 391.88 m 420 391.88 l S
+0 0 0 rg
+BT /F1 8 Tf 300 394.88 Td (CBL#2-05) Tj ET
+BT /F1 8 Tf 426 388.88 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 388.88 Td (House E) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 364.63 Td (6 white) Tj ET
+0.7 0.7 0.7 RG
+1.6 w
+226 361.63 m 420 361.63 l S
+0 0 0 rg
+BT /F1 8 Tf 300 364.63 Td (CBL#2-06) Tj ET
+BT /F1 8 Tf 426 358.63 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 358.63 Td (House F) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 334.38 Td (7 red) Tj ET
+0.9 0.1 0.1 RG
+1.6 w
+226 331.38 m 420 331.38 l S
+0 0 0 rg
+BT /F1 8 Tf 300 334.38 Td (CBL#2-07) Tj ET
+BT /F1 8 Tf 426 328.38 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 328.38 Td (House G) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 304.13 Td (8 black) Tj ET
+0 0 0 RG
+1.6 w
+226 301.13 m 420 301.13 l S
+0 0 0 rg
+BT /F1 8 Tf 300 304.13 Td (CBL#2-08) Tj ET
+BT /F1 8 Tf 426 298.13 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 298.13 Td (House H) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 273.88 Td (9 yellow) Tj ET
+0.85 0.75 0 RG
+1.6 w
+226 270.88 m 420 270.88 l S
+0 0 0 rg
+BT /F1 8 Tf 300 273.88 Td (CBL#2-09) Tj ET
+BT /F1 8 Tf 426 267.88 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 267.88 Td (Workshop) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 243.63 Td (10 violet) Tj ET
+0.55 0.2 0.75 RG
+1.6 w
+226 240.63 m 420 240.63 l S
+0 0 0 rg
+BT /F1 8 Tf 300 243.63 Td (CBL#2-10) Tj ET
+BT /F1 8 Tf 426 237.63 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 237.63 Td (Community Hall) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 213.38 Td (11 rose) Tj ET
+1 0.45 0.65 RG
+0.8 w
+226 210.38 m 330 210.38 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 207.88 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 183.13 Td (12 aqua) Tj ET
+0 0.75 0.75 RG
+0.8 w
+226 180.13 m 330 180.13 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 177.63 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 152.88 Td (13 blue) Tj ET
+0 0.2 0.9 RG
+0.8 w
+226 149.88 m 330 149.88 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 147.38 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 122.63 Td (14 orange) Tj ET
+1 0.5 0 RG
+0.8 w
+226 119.63 m 330 119.63 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 117.13 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 92.38 Td (15 green) Tj ET
+0 0.65 0.2 RG
+0.8 w
+226 89.38 m 330 89.38 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 86.88 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 62.13 Td (16 brown) Tj ET
+0.5 0.3 0.1 RG
+0.8 w
+226 59.13 m 330 59.13 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 56.63 Td (spare) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 6454 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (PEDESTAL) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (North Pedestal) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (SPLITTER) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (PON1_2  1:16) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (FED FROM) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (PON1 Primary port 2) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (PORTS USED) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (6 of 16 \(10 spare\)) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (B) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 385 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 373 Td (CSC 461 project) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 366 m 762 366 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 354 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 342 Td (3 of 4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 335 m 762 335 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (North Pedestal - PON1_2 \(1:16 splitter\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 128 Td (FIBER COLOR CODE) Tj ET
+0 0.2 0.9 rg
+626 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 111 Td (1 blue) Tj ET
+1 0.5 0 rg
+626 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 97 Td (2 orange) Tj ET
+0 0.65 0.2 rg
+626 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 83 Td (3 green) Tj ET
+0.5 0.3 0.1 rg
+626 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 69 Td (4 brown) Tj ET
+0.45 0.5 0.55 rg
+626 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 55 Td (5 slate) Tj ET
+0.7 0.7 0.7 rg
+626 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 41 Td (6 white) Tj ET
+0.9 0.1 0.1 rg
+696 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 111 Td (7 red) Tj ET
+0 0 0 rg
+696 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 97 Td (8 black) Tj ET
+0.85 0.75 0 rg
+696 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 83 Td (9 yellow) Tj ET
+0.55 0.2 0.75 rg
+696 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 69 Td (10 violet) Tj ET
+1 0.45 0.65 rg
+696 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 55 Td (11 rose) Tj ET
+0 0.75 0.75 rg
+696 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 41 Td (12 aqua) Tj ET
+0 0 0 RG
+1.2 w
+210 44 16 484 re S
+0 0 0 rg
+BT /F2 9 Tf 204 536 Td (1:16) Tj ET
+1.8 w
+1 0.5 0 RG
+[5 2.5] 0 d
+40 286 m 210 286 l S
+[] 0 d
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 292 Td (INPUT) Tj ET
+0 0 0 rg
+BT /F2 8.5 Tf 40 272 Td (PON1 Primary port 2) Tj ET
+BT /F1 8 Tf 40 261 Td (cable CBL#1-02 \(orange\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 250 Td (from Main Pedestal, see sheet 1) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 515.88 Td (1 blue) Tj ET
+0 0.2 0.9 RG
+1.6 w
+226 512.88 m 420 512.88 l S
+0 0 0 rg
+BT /F1 8 Tf 300 515.88 Td (CBL#3-01) Tj ET
+BT /F1 8 Tf 426 509.88 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 509.88 Td (House J) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 485.63 Td (2 orange) Tj ET
+1 0.5 0 RG
+1.6 w
+226 482.63 m 420 482.63 l S
+0 0 0 rg
+BT /F1 8 Tf 300 485.63 Td (CBL#3-02) Tj ET
+BT /F1 8 Tf 426 479.63 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 479.63 Td (House K) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 455.38 Td (3 green) Tj ET
+0 0.65 0.2 RG
+1.6 w
+226 452.38 m 420 452.38 l S
+0 0 0 rg
+BT /F1 8 Tf 300 455.38 Td (CBL#3-03) Tj ET
+BT /F1 8 Tf 426 449.38 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 449.38 Td (House L) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 425.13 Td (4 brown) Tj ET
+0.5 0.3 0.1 RG
+1.6 w
+226 422.13 m 420 422.13 l S
+0 0 0 rg
+BT /F1 8 Tf 300 425.13 Td (CBL#3-04) Tj ET
+BT /F1 8 Tf 426 419.13 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 419.13 Td (Laundry Building) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 394.88 Td (5 slate) Tj ET
+0.45 0.5 0.55 RG
+1.6 w
+226 391.88 m 420 391.88 l S
+0 0 0 rg
+BT /F1 8 Tf 300 394.88 Td (CBL#3-05) Tj ET
+BT /F1 8 Tf 426 388.88 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 388.88 Td (Kitchen) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 364.63 Td (6 white) Tj ET
+0.7 0.7 0.7 RG
+1.6 w
+226 361.63 m 420 361.63 l S
+0 0 0 rg
+BT /F1 8 Tf 300 364.63 Td (CBL#3-06) Tj ET
+BT /F1 8 Tf 426 358.63 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 358.63 Td (School) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 334.38 Td (7 red) Tj ET
+0.9 0.1 0.1 RG
+0.8 w
+226 331.38 m 330 331.38 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 328.88 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 304.13 Td (8 black) Tj ET
+0 0 0 RG
+0.8 w
+226 301.13 m 330 301.13 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 298.63 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 273.88 Td (9 yellow) Tj ET
+0.85 0.75 0 RG
+0.8 w
+226 270.88 m 330 270.88 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 268.38 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 243.63 Td (10 violet) Tj ET
+0.55 0.2 0.75 RG
+0.8 w
+226 240.63 m 330 240.63 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 238.13 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 213.38 Td (11 rose) Tj ET
+1 0.45 0.65 RG
+0.8 w
+226 210.38 m 330 210.38 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 207.88 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 183.13 Td (12 aqua) Tj ET
+0 0.75 0.75 RG
+0.8 w
+226 180.13 m 330 180.13 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 177.63 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 152.88 Td (13 blue) Tj ET
+0 0.2 0.9 RG
+0.8 w
+226 149.88 m 330 149.88 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 147.38 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 122.63 Td (14 orange) Tj ET
+1 0.5 0 RG
+0.8 w
+226 119.63 m 330 119.63 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 117.13 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 92.38 Td (15 green) Tj ET
+0 0.65 0.2 RG
+0.8 w
+226 89.38 m 330 89.38 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 86.88 Td (spare) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 62.13 Td (16 brown) Tj ET
+0.5 0.3 0.1 RG
+0.8 w
+226 59.13 m 330 59.13 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 56.63 Td (spare) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 9039 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (CONTENTS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (Cable schedule) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (CABLES) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (19) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (B) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (CSC 461 project) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (4 of 4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (Cable schedule) Tj ET
+0.93 0.93 0.93 rg
+38 526 566 16 re f
+0 0 0 rg
+BT /F2 7 Tf 42 531 Td (CABLE) Tj ET
+BT /F2 7 Tf 118 531 Td (FROM SPLITTER / PORT) Tj ET
+BT /F2 7 Tf 234 531 Td (FIBER) Tj ET
+BT /F2 7 Tf 292 531 Td (CONN.) Tj ET
+BT /F2 7 Tf 338 531 Td (TO) Tj ET
+BT /F2 7 Tf 504 531 Td (PEDESTAL) Tj ET
+BT /F2 7 Tf 578 531 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 516 Td (CBL#1-01) Tj ET
+BT /F1 7.5 Tf 118 516 Td (PON1 Primary / 1) Tj ET
+0 0.2 0.9 rg
+234 515.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 515.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 516 Td (blue) Tj ET
+BT /F1 7.5 Tf 292 516 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 516 Td (splitter PON1_1) Tj ET
+BT /F1 7.5 Tf 504 516 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 516 Td (1) Tj ET
+0.97 0.97 0.97 rg
+38 498 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 502 Td (CBL#1-02) Tj ET
+BT /F1 7.5 Tf 118 502 Td (PON1 Primary / 2) Tj ET
+1 0.5 0 rg
+234 501.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 501.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 502 Td (orange) Tj ET
+BT /F1 7.5 Tf 292 502 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 502 Td (splitter PON1_2) Tj ET
+BT /F1 7.5 Tf 504 502 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 502 Td (1) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 488 Td (CBL#1-03) Tj ET
+BT /F1 7.5 Tf 118 488 Td (PON1 Primary / 3) Tj ET
+0 0.65 0.2 rg
+234 487.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 487.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 488 Td (green) Tj ET
+BT /F1 7.5 Tf 292 488 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 488 Td (Future PON1_3 \(not built\)) Tj ET
+BT /F1 7.5 Tf 504 488 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 488 Td (1) Tj ET
+0.97 0.97 0.97 rg
+38 470 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 474 Td (CBL#2-01) Tj ET
+BT /F1 7.5 Tf 118 474 Td (PON1_1 / 1) Tj ET
+0 0.2 0.9 rg
+234 473.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 473.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 474 Td (blue) Tj ET
+BT /F1 7.5 Tf 292 474 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 474 Td (House A) Tj ET
+BT /F1 7.5 Tf 504 474 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 474 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 460 Td (CBL#2-02) Tj ET
+BT /F1 7.5 Tf 118 460 Td (PON1_1 / 2) Tj ET
+1 0.5 0 rg
+234 459.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 459.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 460 Td (orange) Tj ET
+BT /F1 7.5 Tf 292 460 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 460 Td (House B) Tj ET
+BT /F1 7.5 Tf 504 460 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 460 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 442 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 446 Td (CBL#2-03) Tj ET
+BT /F1 7.5 Tf 118 446 Td (PON1_1 / 3) Tj ET
+0 0.65 0.2 rg
+234 445.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 445.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 446 Td (green) Tj ET
+BT /F1 7.5 Tf 292 446 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 446 Td (House C) Tj ET
+BT /F1 7.5 Tf 504 446 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 446 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 432 Td (CBL#2-04) Tj ET
+BT /F1 7.5 Tf 118 432 Td (PON1_1 / 4) Tj ET
+0.5 0.3 0.1 rg
+234 431.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 431.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 432 Td (brown) Tj ET
+BT /F1 7.5 Tf 292 432 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 432 Td (House D) Tj ET
+BT /F1 7.5 Tf 504 432 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 432 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 414 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 418 Td (CBL#2-05) Tj ET
+BT /F1 7.5 Tf 118 418 Td (PON1_1 / 5) Tj ET
+0.45 0.5 0.55 rg
+234 417.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 417.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 418 Td (slate) Tj ET
+BT /F1 7.5 Tf 292 418 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 418 Td (House E) Tj ET
+BT /F1 7.5 Tf 504 418 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 418 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 404 Td (CBL#2-06) Tj ET
+BT /F1 7.5 Tf 118 404 Td (PON1_1 / 6) Tj ET
+0.7 0.7 0.7 rg
+234 403.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 403.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 404 Td (white) Tj ET
+BT /F1 7.5 Tf 292 404 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 404 Td (House F) Tj ET
+BT /F1 7.5 Tf 504 404 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 404 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 386 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 390 Td (CBL#2-07) Tj ET
+BT /F1 7.5 Tf 118 390 Td (PON1_1 / 7) Tj ET
+0.9 0.1 0.1 rg
+234 389.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 389.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 390 Td (red) Tj ET
+BT /F1 7.5 Tf 292 390 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 390 Td (House G) Tj ET
+BT /F1 7.5 Tf 504 390 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 390 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 376 Td (CBL#2-08) Tj ET
+BT /F1 7.5 Tf 118 376 Td (PON1_1 / 8) Tj ET
+0 0 0 rg
+234 375.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 375.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 376 Td (black) Tj ET
+BT /F1 7.5 Tf 292 376 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 376 Td (House H) Tj ET
+BT /F1 7.5 Tf 504 376 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 376 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 358 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 362 Td (CBL#2-09) Tj ET
+BT /F1 7.5 Tf 118 362 Td (PON1_1 / 9) Tj ET
+0.85 0.75 0 rg
+234 361.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 361.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 362 Td (yellow) Tj ET
+BT /F1 7.5 Tf 292 362 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 362 Td (Workshop) Tj ET
+BT /F1 7.5 Tf 504 362 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 362 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 348 Td (CBL#2-10) Tj ET
+BT /F1 7.5 Tf 118 348 Td (PON1_1 / 10) Tj ET
+0.55 0.2 0.75 rg
+234 347.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 347.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 348 Td (violet) Tj ET
+BT /F1 7.5 Tf 292 348 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 348 Td (Community Hall) Tj ET
+BT /F1 7.5 Tf 504 348 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 348 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 330 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 334 Td (CBL#3-01) Tj ET
+BT /F1 7.5 Tf 118 334 Td (PON1_2 / 1) Tj ET
+0 0.2 0.9 rg
+234 333.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 333.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 334 Td (blue) Tj ET
+BT /F1 7.5 Tf 292 334 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 334 Td (House J) Tj ET
+BT /F1 7.5 Tf 504 334 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 334 Td (3) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 320 Td (CBL#3-02) Tj ET
+BT /F1 7.5 Tf 118 320 Td (PON1_2 / 2) Tj ET
+1 0.5 0 rg
+234 319.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 319.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 320 Td (orange) Tj ET
+BT /F1 7.5 Tf 292 320 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 320 Td (House K) Tj ET
+BT /F1 7.5 Tf 504 320 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 320 Td (3) Tj ET
+0.97 0.97 0.97 rg
+38 302 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 306 Td (CBL#3-03) Tj ET
+BT /F1 7.5 Tf 118 306 Td (PON1_2 / 3) Tj ET
+0 0.65 0.2 rg
+234 305.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 305.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 306 Td (green) Tj ET
+BT /F1 7.5 Tf 292 306 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 306 Td (House L) Tj ET
+BT /F1 7.5 Tf 504 306 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 306 Td (3) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 292 Td (CBL#3-04) Tj ET
+BT /F1 7.5 Tf 118 292 Td (PON1_2 / 4) Tj ET
+0.5 0.3 0.1 rg
+234 291.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 291.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 292 Td (brown) Tj ET
+BT /F1 7.5 Tf 292 292 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 292 Td (Laundry Building) Tj ET
+BT /F1 7.5 Tf 504 292 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 292 Td (3) Tj ET
+0.97 0.97 0.97 rg
+38 274 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 278 Td (CBL#3-05) Tj ET
+BT /F1 7.5 Tf 118 278 Td (PON1_2 / 5) Tj ET
+0.45 0.5 0.55 rg
+234 277.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 277.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 278 Td (slate) Tj ET
+BT /F1 7.5 Tf 292 278 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 278 Td (Kitchen) Tj ET
+BT /F1 7.5 Tf 504 278 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 278 Td (3) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 264 Td (CBL#3-06) Tj ET
+BT /F1 7.5 Tf 118 264 Td (PON1_2 / 6) Tj ET
+0.7 0.7 0.7 rg
+234 263.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 263.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 264 Td (white) Tj ET
+BT /F1 7.5 Tf 292 264 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 264 Td (School) Tj ET
+BT /F1 7.5 Tf 504 264 Td (North Pedestal) Tj ET
+BT /F1 7.5 Tf 578 264 Td (3) Tj ET
+0.45 0.45 0.45 RG
+0.6 w
+38 260 m 604 260 l S
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000231 00000 n 
+0000000333 00000 n 
+0000000469 00000 n 
+0000004530 00000 n 
+0000004666 00000 n 
+0000011445 00000 n 
+0000011582 00000 n 
+0000018088 00000 n 
+0000018226 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+27317
+%%EOF

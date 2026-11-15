@@ -1,0 +1,454 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2227 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (PEDESTALS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (SPLITTERS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (DROP CABLES) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (3) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (SPARE PORTS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (LINKS BETWEEN PEDESTALS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (0) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 385 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 373 Td (A) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 366 m 762 366 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 354 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 342 Td (-) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 335 m 762 335 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 323 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 311 Td (1 of 3) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 304 m 762 304 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (System overview) Tj ET
+0.45 0.45 0.45 RG
+0.7 w
+[4 3] 0 d
+32 464 578 78 re S
+[] 0 d
+0.45 0.45 0.45 rg
+BT /F2 7.5 Tf 38 532 Td (MAIN PEDESTAL) Tj ET
+0 0 0 RG
+1.8 w
+38 496 m 108 496 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 38 500 Td (OLT port 1) Tj ET
+1 1 1 rg
+108 475 96 42 re f
+0 0 0 RG
+1.1 w
+108 475 96 42 re S
+0 0 0 rg
+BT /F2 8.5 Tf 113 506 Td (PON1 Primary) Tj ET
+BT /F1 7 Tf 113 496 Td (1:4   3/4 used) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 113 486 Td (see sheet 2) Tj ET
+0 0 0 RG
+1.2 w
+38 40.5 m 62 40.5 l S
+0 0 0 rg
+BT /F1 7 Tf 68 38 Td (link inside a pedestal) Tj ET
+1.7 w
+[5 2.5] 0 d
+168 40.5 m 192 40.5 l S
+[] 0 d
+BT /F1 7 Tf 198 38 Td (cable run between pedestals) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 328 38 Td (line color = fiber color of the output port \(pN\)) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3972 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (PEDESTAL) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (Main Pedestal) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (SPLITTER) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (PON1 Primary  1:4) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (FED FROM) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (OLT port 1) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (PORTS USED) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (3 of 4 \(1 spare\)) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (A) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 385 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 373 Td (-) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 366 m 762 366 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 354 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 342 Td (2 of 3) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 335 m 762 335 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (Main Pedestal - PON1 Primary \(1:4 splitter\)) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 128 Td (FIBER COLOR CODE) Tj ET
+0 0.2 0.9 rg
+626 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 111 Td (1 blue) Tj ET
+1 0.5 0 rg
+626 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 97 Td (2 orange) Tj ET
+0 0.65 0.2 rg
+626 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 83 Td (3 green) Tj ET
+0.5 0.3 0.1 rg
+626 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 69 Td (4 brown) Tj ET
+0.45 0.5 0.55 rg
+626 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 55 Td (5 slate) Tj ET
+0.7 0.7 0.7 rg
+626 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+626 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 642 41 Td (6 white) Tj ET
+0.9 0.1 0.1 rg
+696 110 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 110 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 111 Td (7 red) Tj ET
+0 0 0 rg
+696 96 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 96 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 97 Td (8 black) Tj ET
+0.85 0.75 0 rg
+696 82 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 82 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 83 Td (9 yellow) Tj ET
+0.55 0.2 0.75 rg
+696 68 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 68 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 69 Td (10 violet) Tj ET
+1 0.45 0.65 rg
+696 54 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 54 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 55 Td (11 rose) Tj ET
+0 0.75 0.75 rg
+696 40 12 8 re f
+0.45 0.45 0.45 RG
+0.4 w
+696 40 12 8 re S
+0 0 0 rg
+BT /F1 7 Tf 712 41 Td (12 aqua) Tj ET
+0 0 0 RG
+1.2 w
+210 392 16 136 re S
+0 0 0 rg
+BT /F2 9 Tf 204 536 Td (1:4) Tj ET
+1.8 w
+40 460 m 210 460 l S
+[] 0 d
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 40 466 Td (INPUT) Tj ET
+0 0 0 rg
+BT /F1 9 Tf 40 444 Td (OLT port 1) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 514 Td (1 blue) Tj ET
+0 0.2 0.9 RG
+1.6 w
+226 511 m 420 511 l S
+0 0 0 rg
+BT /F1 8 Tf 300 514 Td (CBL#1-01) Tj ET
+BT /F1 8 Tf 426 508 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 508 Td (PON1_1 splitter) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 480 Td (2 orange) Tj ET
+1 0.5 0 RG
+1.6 w
+226 477 m 420 477 l S
+0 0 0 rg
+BT /F1 8 Tf 300 480 Td (CBL#1-02) Tj ET
+BT /F1 8 Tf 426 474 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 474 Td (PON1_2 splitter) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 446 Td (3 green) Tj ET
+0 0.65 0.2 RG
+1.6 w
+226 443 m 420 443 l S
+0 0 0 rg
+BT /F1 8 Tf 300 446 Td (CBL#1-03) Tj ET
+BT /F1 8 Tf 426 440 Td (SC-APC) Tj ET
+BT /F2 8 Tf 466 440 Td (PON1_3 splitter) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 230 412 Td (4 brown) Tj ET
+0.5 0.3 0.1 RG
+0.8 w
+226 409 m 330 409 l S
+0.45 0.45 0.45 rg
+BT /F1 7 Tf 336 406.5 Td (spare) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2595 >>
+stream
+0 0 0 RG
+1.5 w
+24 24 744 564 re S
+1 w
+618 588 m 618 24 l S
+0 0 0 rg
+618 558 150 30 re f
+1 1 1 rg
+BT /F2 7 Tf 626 575 Td (FIBER BLUEPRINT) Tj ET
+BT /F2 8.5 Tf 626 564 Td (Demo Colony Fiber) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 540 Td (CONTENTS) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 528 Td (Cable schedule) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 521 m 762 521 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 509 Td (CABLES) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 497 Td (3) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 490 m 762 490 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 478 Td (REVISION) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 466 Td (A) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 459 m 762 459 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 447 Td (DRAWN BY) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 435 Td (-) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 428 m 762 428 l S
+0.45 0.45 0.45 rg
+BT /F1 6.5 Tf 626 416 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 9.5 Tf 626 404 Td (3 of 3) Tj ET
+0.93 0.93 0.93 RG
+0.6 w
+624 397 m 762 397 l S
+0 0 0 rg
+BT /F2 14 Tf 38 562 Td (Cable schedule) Tj ET
+0.93 0.93 0.93 rg
+38 526 566 16 re f
+0 0 0 rg
+BT /F2 7 Tf 42 531 Td (CABLE) Tj ET
+BT /F2 7 Tf 118 531 Td (FROM SPLITTER / PORT) Tj ET
+BT /F2 7 Tf 234 531 Td (FIBER) Tj ET
+BT /F2 7 Tf 292 531 Td (CONN.) Tj ET
+BT /F2 7 Tf 338 531 Td (TO) Tj ET
+BT /F2 7 Tf 504 531 Td (PEDESTAL) Tj ET
+BT /F2 7 Tf 578 531 Td (SHEET) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 516 Td (CBL#1-01) Tj ET
+BT /F1 7.5 Tf 118 516 Td (PON1 Primary / 1) Tj ET
+0 0.2 0.9 rg
+234 515.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 515.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 516 Td (blue) Tj ET
+BT /F1 7.5 Tf 292 516 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 516 Td (PON1_1 splitter) Tj ET
+BT /F1 7.5 Tf 504 516 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 516 Td (2) Tj ET
+0.97 0.97 0.97 rg
+38 498 566 14 re f
+0 0 0 rg
+BT /F2 7.5 Tf 42 502 Td (CBL#1-02) Tj ET
+BT /F1 7.5 Tf 118 502 Td (PON1 Primary / 2) Tj ET
+1 0.5 0 rg
+234 501.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 501.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 502 Td (orange) Tj ET
+BT /F1 7.5 Tf 292 502 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 502 Td (PON1_2 splitter) Tj ET
+BT /F1 7.5 Tf 504 502 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 502 Td (2) Tj ET
+0 0 0 rg
+BT /F2 7.5 Tf 42 488 Td (CBL#1-03) Tj ET
+BT /F1 7.5 Tf 118 488 Td (PON1 Primary / 3) Tj ET
+0 0.65 0.2 rg
+234 487.5 9 7 re f
+0.45 0.45 0.45 RG
+0.4 w
+234 487.5 9 7 re S
+0 0 0 rg
+BT /F1 7.5 Tf 246 488 Td (green) Tj ET
+BT /F1 7.5 Tf 292 488 Td (SC-APC) Tj ET
+BT /F1 7.5 Tf 338 488 Td (PON1_3 splitter) Tj ET
+BT /F1 7.5 Tf 504 488 Td (Main Pedestal) Tj ET
+BT /F1 7.5 Tf 578 488 Td (2) Tj ET
+0.45 0.45 0.45 RG
+0.6 w
+38 484 m 604 484 l S
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000002740 00000 n 
+0000002876 00000 n 
+0000006899 00000 n 
+0000007036 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+9683
+%%EOF

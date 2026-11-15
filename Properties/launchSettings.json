@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "Demo (medium network)": {
+      "commandName": "Project",
+      "commandLineArgs": "samples/demomedium.json output/demomedium.pdf",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "Demo (large network)": {
+      "commandName": "Project",
+      "commandLineArgs": "samples/demolarge.json output/demolarge.pdf",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "Validate only (bad sample)": {
+      "commandName": "Project",
+      "commandLineArgs": "--check samples/badfeedsloop.json",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "Interactive builder": {
+      "commandName": "Project",
+      "commandLineArgs": "--new output/mynetwork.json",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

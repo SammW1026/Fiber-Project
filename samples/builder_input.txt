@@ -1,0 +1,36 @@
+Builder Test Network
+
+
+Main Pedestal
+Primary
+4
+OLT port 2
+1
+
+Branch
+
+
+next
+
+
+Pump House
+
+
+
+West Pedestal
+Branch
+8
+
+1
+
+
+House 1
+
+2
+
+
+House 2
+LC-APC
+
+
+

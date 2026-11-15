@@ -1,0 +1,32 @@
+{
+  "name": "Test1",
+  "revision": "1",
+  "drawnBy": "Samm",
+  "pedestals": [
+    {
+      "name": "Main",
+      "splitters": [
+        {
+          "name": "1:8",
+          "ratio": 8,
+          "input": "pon 2",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#1-02",
+              "endpoint": "asf",
+              "connector": "asf",
+              "feeds": "as"
+            }
+          ]
+        },
+        {
+          "name": "next",
+          "ratio": 16,
+          "input": "",
+          "cables": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{ "name": "Fed Twice", "pedestals": [ { "name": "P1", "splitters": [
+  { "name": "S1", "ratio": 4, "input": "OLT", "cables": [
+    { "port": 1, "label": "C1", "feeds": "S2" },
+    { "port": 2, "label": "C2", "feeds": "S2" } ] },
+  { "name": "S2", "ratio": 8, "cables": [ { "port": 1, "label": "C3", "endpoint": "House A" } ] } ] } ] }

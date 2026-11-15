@@ -1,0 +1,56 @@
+{
+  "name": "Builder Test Network",
+  "revision": "A",
+  "drawnBy": "",
+  "pedestals": [
+    {
+      "name": "Main Pedestal",
+      "splitters": [
+        {
+          "name": "Primary",
+          "ratio": 4,
+          "input": "OLT port 2",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#1-01",
+              "endpoint": "Branch splitter",
+              "connector": "SC-APC",
+              "feeds": "Branch"
+            },
+            {
+              "port": 2,
+              "label": "CBL#1-02",
+              "endpoint": "Pump House",
+              "connector": "SC-APC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West Pedestal",
+      "splitters": [
+        {
+          "name": "Branch",
+          "ratio": 8,
+          "input": "",
+          "cables": [
+            {
+              "port": 1,
+              "label": "CBL#2-01",
+              "endpoint": "House 1",
+              "connector": "SC-APC"
+            },
+            {
+              "port": 2,
+              "label": "CBL#2-02",
+              "endpoint": "House 2",
+              "connector": "LC-APC"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
