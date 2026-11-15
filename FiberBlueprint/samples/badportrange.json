@@ -1,2 +1,0 @@
-{ "name": "Bad Port", "pedestals": [ { "name": "P1", "splitters": [
-  { "name": "S1", "ratio": 4, "input": "OLT", "cables": [ { "port": 9, "label": "C1", "endpoint": "House A" } ] } ] } ] }
